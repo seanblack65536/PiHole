@@ -1,2 +1,2 @@
 https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
-https://dbl.oisd.nl/
+https://dbl.oisd.nl
