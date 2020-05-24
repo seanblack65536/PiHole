@@ -5,3 +5,4 @@ doug1izaerwt3.cloudfront.net
 github.com
 githubusercontent.com
 raw.githubusercontent.com
+gate.hockeyapp.net
