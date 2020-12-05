@@ -1,3 +1,6 @@
+#!/bin/sh
+# 0 0 * * /etc/pihole/update-pihole-lists.sh
+
 curl -Ss https://v.firebog.net/hosts/lists.php?type=nocross -o /etc/pihole/adlists.list
 curl -Ss https://raw.githubusercontent.com/Seanblack65536/PiHole/master/blacklist_urls.txt -o /etc/pihole/blacklist_urls.txt
 curl -sS https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt -o /etc/pihole/whitelist.txt
